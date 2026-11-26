@@ -1,4 +1,3 @@
-
 let counters = document.querySelectorAll('.counter');
 
 let healthCondition = document.querySelector('.health');
