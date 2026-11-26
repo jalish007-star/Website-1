@@ -30,7 +30,6 @@ body
 }
 .child_tracking 
 {
-  background: blue;
   color: white;
   width: 25%;
   padding: 45px 30px;
@@ -48,6 +47,10 @@ body
 .child_tracking:nth-child(3) 
 {
   background: violet;
+}
+.child_tracking:nth-child(4) 
+{
+  background: blue;
 }
 .child_tracking i 
 {
